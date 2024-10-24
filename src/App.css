@@ -1,0 +1,13 @@
+body{
+  background-color: rgba(19, 22, 33, 0.993)
+}
+
+#mydiv{
+  height: 300px;
+  width: 300px;
+  border: 2px solid green;
+  background-color: beige;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
