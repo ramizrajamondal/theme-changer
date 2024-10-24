@@ -1,6 +1,6 @@
 import { createContext, useState } from "react";
 import './App.css'
-import Compoa from './components/compoa'
+import Compoa from './components/Compoa'
 export const ThemeContext = createContext()
 export const myContext = createContext()
 function App() {
