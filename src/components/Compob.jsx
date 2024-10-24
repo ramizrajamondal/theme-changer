@@ -1,5 +1,5 @@
 import React, { useContext } from 'react'
-import Compoc from './compoc'
+import Compoc from './Compoc'
 import { myContext, ThemeContext } from '../App'
 const Compob = () => { 
   const user = useContext(myContext)

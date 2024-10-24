@@ -1,5 +1,5 @@
 import React from 'react'
-import Compob from './compob'
+import Compob from './Compob'
 const Compoa = () => {
   return (
     <div>
